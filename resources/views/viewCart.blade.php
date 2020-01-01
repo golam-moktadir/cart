@@ -45,5 +45,5 @@
 		</tbody>
 		@endif
 	</table>
-	<a href="index.php" class="btn btn-primary">Continue Shopping</a>
+	<a href="{{url('/')}}" class="btn btn-primary">Continue Shopping</a>
 @endsection
